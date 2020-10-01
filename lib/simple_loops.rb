@@ -24,7 +24,7 @@ def output_array(message)
 
   counter = 0
 
-  while counter < array.length do
+  while counter < message.length do
     puts message
     counter += 1
   end
