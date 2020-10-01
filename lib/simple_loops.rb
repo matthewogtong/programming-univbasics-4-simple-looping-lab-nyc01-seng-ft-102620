@@ -34,7 +34,7 @@ def return_string_array(elements)
 
   counter = 0
 
-  while counter < elemtns.length do
+  while counter < elements.length do
     elements[counter].to_s
     counter += 1
   end
