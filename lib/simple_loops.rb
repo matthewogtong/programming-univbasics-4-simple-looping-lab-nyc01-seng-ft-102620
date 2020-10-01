@@ -40,4 +40,6 @@ def return_string_array(elements)
     new_array.push(elements[counter].to_s)
     counter += 1
   end
+
+  puts new_array
 end
