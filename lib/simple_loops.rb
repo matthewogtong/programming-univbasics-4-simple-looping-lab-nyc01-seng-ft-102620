@@ -41,5 +41,5 @@ def return_string_array(elements)
     counter += 1
   end
 
-  puts new_array
+  new_array
 end
